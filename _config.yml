@@ -1,0 +1,8 @@
+markdown: rdiscount
+permalink: /news/:year/:month/:day/:title
+auto: false
+destination: public
+twitter: williamvdodson
+title: 'Awesome New Website'
+subtitle: 'The Tagline Goes Here'
+author: 'humans.txt'

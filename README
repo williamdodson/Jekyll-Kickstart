@@ -1,0 +1,49 @@
+================================================================================
+JEKYLL KICKSTARTER
+================================================================================
+Description: A basic HTML5 skeleton for kickstarting Jekyll-based websites
+
+I love Jekyll and I use it to build everything from static HTML prototypes to
+small consumer websites and blogs. This is a simple skeleton to help me put
+everything in place that I need to start a Jekyll project. 
+
+I try not to make too many assumptions here other than the destination 
+folder, but I did customize the nice .htaccess file that is provided with the 
+HTML5 Boilerplate because it uses a lot of intelligent conventions. 
+Other than that, hack away.
+
+Cheers,
+William Dodson 
+
+Web: http://obxdesignworks.com/
+Twitter: https://twitter.com/williamvdodson
+================================================================================
+License:
+
+(The MIT License)
+
+Copyright (c) 2012 William Dodson
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the 'Software'), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+================================================================================
+Note: You are also bound under the license terms for Jekyll. Please read the
+license information located here for more information:
+
+https://github.com/mojombo/jekyll
+================================================================================
